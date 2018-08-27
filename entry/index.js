@@ -7,7 +7,10 @@ const ROOT_ELEMENT = document.getElementById('root');
 
 ReactDOM.render(
   <div>
-    <h1>Hello World</h1>
+    <h1>
+      Github Cards<br />
+      <small className="blue-text">Gotta catch them all!</small>
+    </h1>
   </div>,
   ROOT_ELEMENT
 );
