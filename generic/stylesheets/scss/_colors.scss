@@ -1,0 +1,70 @@
+// Find the color name
+// http://www.htmlcsscolor.com/hex/CC3232
+$white: #FFFFFF;
+
+$picton-blue: #529EDB;
+$alice-blue: #EFF5FF;
+$hawkes-blue: #C1D9FF;
+
+$persian-red: #CC3232;
+$red-orange: #F83837;
+$sea-pink-red: #E08282;
+$snow-red: #FFF3F3;
+
+$dark-orange: #FF8F00;
+
+$fruit-salad-green : #4CAF50;
+$panache-green : #E9F8E3;
+
+$turbo-yellow : #FAC917;
+$corn-silk-yellow : #FFF8E0;
+$old-lace-yellow : #FFF6E4;
+
+$heliotrope-purple : #D078E9;
+
+$pink-swan-grey: #B3B3B3;
+$snow-grey: #F9F9F9;
+$dim-grey: #696969;
+$whisper-grey: #EDEDED;
+$gainsboro-grey: #DDDDDD;
+$very-light-grey: #C8C8C8;
+$zambezi-grey: #5C5C5C;
+$charcoal-grey: #414141;
+
+$white-smoke: #F2F2F2;
+$light-white-smoke-grey: #F5F5F5;
+$snow-grey: #F9F9F9;
+$ivory: #FCFCFA;
+
+$black: #000000;
+
+:export {
+  white: $white;
+  picton-blue: $picton-blue;
+  alice-blue: $alice-blue;
+  hawkes-blue: $hawkes-blue;
+  persian-red: $persian-red;
+  red-orange: $red-orange;
+  sea-pink-red: $sea-pink-red;
+  snow-red: $snow-red;
+  dark-orange: $dark-orange;
+  fruit-salad-green: $fruit-salad-green;
+  panache-green: $panache-green;
+  turbo-yellow: $turbo-yellow;
+  corn-silk-yellow: $corn-silk-yellow;
+  old-lace-yellow: $old-lace-yellow;
+  heliotrope-purple: $heliotrope-purple;
+  pink-swan-grey: $pink-swan-grey;
+  snow-grey: $snow-grey;
+  dim-grey: $dim-grey;
+  whisper-grey: $whisper-grey;
+  gainsboro-grey: $gainsboro-grey;
+  very-light-grey: $very-light-grey;
+  zambezi-grey: $zambezi-grey;
+  charcoal-grey: $charcoal-grey;
+  white-smoke: $white-smoke;
+  light-white-smoke-grey: $light-white-smoke-grey;
+  snow-grey: $snow-grey;
+  ivory: $ivory;
+  black: $black;
+}
